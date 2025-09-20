@@ -13,7 +13,7 @@ Breast cancer is not just a woman's disease. It is quite possible for men to get
 
 # Facts And Figures
 
-Breast cancer is the most commonly occurring cancer in women and the second most common cancer overall. There were over 2 million new cases in 2018.
+Breast cancer is the most commonly occurring cancer in women and the second most commons cancer overall. There were over 2 million new cases in 2018.
 
 **Prevalence**
 
